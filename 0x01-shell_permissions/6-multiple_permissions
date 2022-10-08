@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod og+-rw-xr-xr-- hello
+sudo chmod +-rwxr-xr-- hello
